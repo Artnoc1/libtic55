@@ -6,4 +6,5 @@ Datasheet can be found by link below:
 http://pdf1.alldatasheet.com/datasheet-pdf/view/136630/MINILOGIC/ML1001.html  
 
 Library was written for msp430 microcontroller but It can be easily adapted for any type of your device. 
+This code based on the material of this article: http://radiokot.ru/circuit/digital/home/52/
 
